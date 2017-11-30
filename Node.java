@@ -7,7 +7,7 @@ package Lab3;
 
 /**
  *
- * @author chelseawang1995
+ * @author Yingjie(Chelsea) Wang
  */
 public class Node {
     private Node lChild;
