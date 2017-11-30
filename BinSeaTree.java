@@ -2,7 +2,7 @@ package Lab3;
 
 /**
  *
- * @author Yingjie Wang
+ * @author Yingjie(Chelsea) Wang
  */
 public class BinSeaTree {
    private Node root = null;
