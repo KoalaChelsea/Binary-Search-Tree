@@ -7,7 +7,7 @@ package Lab3;
 
 /**
  *
- * @author chelseawang1995
+ * @author Yingjie(Chelsea) Wang
  */
 import java.util.Scanner;
 public class Holder {
